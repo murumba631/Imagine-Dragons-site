@@ -1,0 +1,17 @@
+h1{
+    color: rebeccapurple;
+    text-align:center;
+    font-style: bold;
+}
+h2{
+    color: steelblue;
+    text-align: center;
+    font-family: sans-serif;
+}
+p{
+    text-align:center;
+    font-family:sans-serif;
+}
+img{
+    float: left;
+}
